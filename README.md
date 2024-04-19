@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, HTML, CSS, JavaScript And Python**
 
-- 📫 How to reach me **Sthabiso.Mbongwa@younglings.africa**
+- 📫 How to reach me **sthabiso@aims.ac.za**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
